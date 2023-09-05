@@ -29,6 +29,6 @@ $\hspace{1cm}$
 
 This whole process is created by making good visiluizations about data itself and model's accuracy on the data.
 
-$\hspace{1cm}$
+$\hspace{2cm}$
 In conclusion, I achieved my goal. In my future projects, I want to develop my idea and my techniques to bring better solutions for the same problem. Stay tuned!
 
